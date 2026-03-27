@@ -1,0 +1,6 @@
+{
+  "prompt": "An oil painting of a dimly lit tailor's workshop, abandoned and dusty. At the centre stands a dressmaker's mannequin wearing a single elaborate dress — so impossibly, obsessively fitted to one specific human body that it bunches, puckers, and strains grotesquely against the featureless form. Every seam is hyper-precise, every dart exaggerated, every pleat stitched to trace curves that are not there. Bolts of unused plain fabric sit untouched in the background. Warm candlelight. Fine art oil painting, Dutch Golden Age style, rich shadows, impasto texture, no text, no labels, no diagrams.",
+  "model": "Ideogram 3",
+  "concept": "overfitting",
+  "metaphor": "A dress tailored so obsessively to one absent body that it distorts on any other form — precision that cannot generalize."
+}
