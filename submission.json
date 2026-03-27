@@ -1,0 +1,7 @@
+{
+  "prompt": "A long, narrow hotel corridor stretching into the distance, slightly aged and empty. Identical wooden doors line both sides, each one slightly ajar. Warm amber and deep orange light bleeds through every crack — each door further down the hall glows more intensely than the last, until the final doors near the vanishing point radiate an almost blinding white-gold. The air feels heavy and still. Dust motes float in the shafts of warm light. Muted, desaturated walls contrast against the burning glow from each doorway. No people, no text, no signs. Shot from low angle, photorealistic, cinematic, 35mm film, shallow depth of field, quietly apocalyptic atmosphere. No charts, no graphs, no labels, no windows, no clocks.",
+  "model": "Ideogram 3",
+  "dataset_name": "NASA GISS Surface Temperature Analysis (GISTEMP v4)",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "Every year for nearly five decades has been warmer than the 20th-century average without a single exception, with 2024 setting the all-time record at 1.28°C above baseline."
+}
