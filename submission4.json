@@ -1,0 +1,6 @@
+{
+  "prompt": "A warm oil painting of a terraced hillside garden at golden hour. Three or four distinct stone terraces step across the canvas. On each individual terrace, the flowers and plants visibly decrease in height from left to right — each terrace trends downward. But the terraces themselves are arranged so that the overall hillside rises steeply from left to right, creating an unmistakable upward slope across the whole scene. The local truth and the global truth pull in opposite directions simultaneously. Lush mediterranean vegetation, warm amber and ochre light, painterly impasto brushwork, impressionist style, no text, no labels, no numbers, no charts.",
+  "model": "Ideogram 3",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Each terrace slopes downward left to right locally, but the overall hillside rises left to right globally — local and global trends simultaneously contradict each other in the same scene."
+}
