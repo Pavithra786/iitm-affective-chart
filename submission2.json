@@ -1,6 +1,7 @@
+
 {
-  "prompt": "An oil painting of a dimly lit tailor's workshop, abandoned and dusty. At the centre stands a dressmaker's mannequin wearing a single elaborate dress — so impossibly, obsessively fitted to one specific human body that it bunches, puckers, and strains grotesquely against the featureless form. Every seam is hyper-precise, every dart exaggerated, every pleat stitched to trace curves that are not there. Bolts of unused plain fabric sit untouched in the background. Warm candlelight. Fine art oil painting, Dutch Golden Age style, rich shadows, impasto texture, no text, no labels, no diagrams.",
-  "model": "Ideogram 3",
-  "concept": "overfitting",
-  "metaphor": "A dress tailored so obsessively to one absent body that it distorts on any other form — precision that cannot generalize."
+"prompt": "A hyper-realistic close-up photograph in a professional tailor's workshop. A beige fabric dress form mannequin has several random, jagged grey rocks, two bright yellow tennis balls, and a small blue metal can pinned to its torso. A tailor is carefully fitting a high-quality navy blue pinstripe suit jacket over the mannequin, with the fabric precisely bulging and stretching to perfectly contour around the irregular rocks and balls. Shallow depth of field, cinematic lighting, focus on the texture of the wool fabric straining over the obstructions.",
+"model": "Ideogram 3",
+"concept": "Overfitting",
+"metaphor": "The suit (model) is tailored to random objects (noise) instead of the mannequin's shape (signal), demonstrating how a model loses utility by fitting perfectly to outliers."
 }
